@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="71106165-3f8f-4937-8bd8-ffdb1955fcc8" name="Default Changelist" comment="Updates" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,25 +54,40 @@
       <option name="presentableId" value="Default" />
       <updated>1600660006873</updated>
       <workItem from="1600660009856" duration="1993000" />
-      <workItem from="1600662804793" duration="2212000" />
+      <workItem from="1600662804793" duration="3998000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="378" y="527" key="#Notifications" timestamp="1600660136054">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="378" y="527" key="#Notifications/0.0.2560.1400@0.0.2560.1400" timestamp="1600660136054" />
+    <state x="94" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600669665658">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="94" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1600669665658" />
     <state x="408" y="533" key="#com.intellij.tools.ToolEditorDialog" timestamp="1600660177668">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="408" y="533" key="#com.intellij.tools.ToolEditorDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1600660177668" />
-    <state x="141" y="348" key="SettingsEditor" timestamp="1600660253864">
+    <state x="555" y="316" key="SettingsEditor" timestamp="1600670001655">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="141" y="348" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1600660253864" />
+    <state x="555" y="316" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1600670001655" />
   </component>
 </project>
